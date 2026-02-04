@@ -1,2 +1,2 @@
 # MitoDNAMismatch
-Storage of scripts and results from 
+Store scripts and develop results from mIto-nuclear DNA mismatch project 
