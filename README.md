@@ -10,16 +10,16 @@ Specific aims:
   -Quantify genetic load per dog individual
   -Exploratory data analysis of mutation data
   
-#Code specifics:
+# Code specifics:
 The code intends to perform the following tasks:
 Filter large VCF files tracking mutations
 Explore mutation data, compare different dog weight classesacross weight classes and correlation analysis with dog body weight
  with genetic load estimtions
 
-##Input:
-###VCF files storing single nucleotid polymorphisms (SNPs), including information such as specific genomic location (chromosome, start and end position) and allelic variants per sample.
-##Output:
-###Filtered VCFs
-###Annotated VCF
+## Input:
+### VCF files storing single nucleotid polymorphisms (SNPs), including information such as specific genomic location (chromosome, start and end position) and allelic variants per sample.
+## Output:
+### Filtered VCFs
+### Annotated VCF
 
 
