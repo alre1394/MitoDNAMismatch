@@ -1,5 +1,5 @@
 # Mito-nuclear mismatch
-The repo stores and describes the main scripts utilized during the project conducted in the Applied Bioinformatics course. An exploratory analysis was conducted to find evidence that explains the inverse correlation between dog lifespan and body weight, particularly in relation to mitochondrial dysfuntion. The project scope was to quantify the genetic load in mitochondrial genes located in the nuclear genome (mito-nuclear genes), based on predicted annotations obtained through a SNP annotation tool. The project leveraged publicly available data from the Dog10K project [1], including nearly 2,000 whole-genome sequenced samples.
+The repository stores the main scripts utilized during the project conducted in the Applied Bioinformatics course. An exploratory analysis was conducted to study the inverse correlation between dog lifespan and body weight, particularly in relation to mitochondrial dysfunction. The genetic load was quantified in mitochondrial genes located in the nuclear genome (mito-nuclear genes), based on SNP annotation and predicted impact using SnpEff. The project leveraged publicly available data from the Dog10K project [1], including 2,000 whole-genome sequenced samples.
 
 ## Overall aim:
 Study the association between dog body weight and genetic load in mito-nuclear genes across different dog breeds.
